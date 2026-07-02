@@ -8,7 +8,7 @@
 
 ## What this is
 
-A 12-week, 24-lesson curriculum from Microsoft covering symbolic AI → neural networks → computer vision → NLP → ethics. Each lesson has a write-up, Jupyter notebooks (both PyTorch and TensorFlow where applicable), a quiz, and often a hands-on lab.
+A 12-week, 25-lesson curriculum from Microsoft covering symbolic AI → neural networks → computer vision → NLP → ethics. Each lesson has a write-up, Jupyter notebooks (both PyTorch and TensorFlow where applicable), a quiz, and often a hands-on lab.
 
 This is a **learning project**, not a shipping product. The "build" is me working through it; the "ship" is each lesson's solutions pushed to my fork with my own commentary.
 
@@ -44,7 +44,7 @@ A lesson is done when all of:
 
 A week is done when all its lessons are done + a short weekly retro (what I now know that I didn't before).
 
-The curriculum is done when all 24 lessons are done + Week 12 retro + a final synthesis post.
+The curriculum is done when all 25 lessons are done + Week 12 retro + a final synthesis post.
 
 ## Out of scope
 

@@ -20,7 +20,7 @@ See SPEC.md § Goals. Summary:
 
 | Metric | Target | How measured |
 |---|---|---|
-| Lessons closed | 24 / 24 by 2026-09-27 | GitHub issues |
+| Lessons closed | 25 / 25 by 2026-09-27 | GitHub issues |
 | Weekly retros | 12 / 12 (one per week) | `NOTES/week-NN.md` |
 | Self-check questions | 5 / 5 answered correctly at end | Final retro synthesis |
 | Downstream application | ≥1 PR into fitcoach/openwhoop/paperbrain using a concept from this course | GitHub history |
